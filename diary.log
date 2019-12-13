@@ -1,7 +1,8 @@
 
 Here are notes of ideas explored during this challenge
-1.Created a baseline random forest model
+1. Created a baseline random forest model. V1 in Kaggle
 	Mean Absolute Error: 17412.23
 	Accuracy: 89.36 %.
 	3445 in the leaderboard (0.15120 score)
+2. Added correctly RMSE to compare with the leaderboard scoring. V2 in Kaggle
 
