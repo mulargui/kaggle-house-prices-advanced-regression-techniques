@@ -1,2 +1,7 @@
 
-Here are notes of ideas explored during the project
+Here are notes of ideas explored during this challenge
+1.Created a baseline random forest model
+	Mean Absolute Error: 17412.23
+	Accuracy: 89.36 %.
+	3445 in the leaderboard (0.15120 score)
+
