@@ -5,4 +5,8 @@ Here are notes of ideas explored during this challenge
 	Accuracy: 89.36 %.
 	3445 in the leaderboard (0.15120 score)
 2. Added correctly RMSE to compare with the leaderboard scoring. V2 in Kaggle
-
+3. Feature engineering. V3 in Kaggle
+	RMSE: 0.14793
+	Mean Absolute Error: 17036.93
+	Accuracy: 89.7 %.
+	3346 in the leaderboard (0.14763 score)
